@@ -1,5 +1,5 @@
 <?php
-$name="dhamsania vrunda";
+$name="Bhuva Ruchi";
 $age=20;
 $city="rajkot";
 echo "<b>name:$name<br></b>";
