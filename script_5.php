@@ -1,5 +1,5 @@
 <?php
-$firstname="Vrunda";
-$lastname="Dhamsania";
+$firstname="Ruchi";
+$lastname="Bhuva";
 echo "$firstname"." "."$lastname";
 ?>
